@@ -283,6 +283,3 @@ function pick(guess) {
   }
 }
 
-function pick(guess) {
-
-}
